@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.cont1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.list {
+  list-style-type: none;
+  font-size: 28px;
+  text-decoration: none;
+  margin: 10px;
+}
+.unorder {
+  display: flex;
+  flex-direction: row;
+}
+.btn1 {
+  width: 120px;
+  height: 40px;
+  margin-top: 20px;
+}
+.divs {
+  display: flex;
+  flex-direction: row;
+}
+.logo {
+  height: 70px;
+  width: 200px;
+}
